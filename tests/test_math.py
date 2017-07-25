@@ -12,3 +12,7 @@ def test_add():
 def test_mult():
     assert fcm.math.mult(5,2) == 10
     assert fcm.math.mult(2,5) == 10
+
+def test_div():
+    assert fcm.math.div(6,2) == 3
+    assert fcm.math.div(8,4) == 2
