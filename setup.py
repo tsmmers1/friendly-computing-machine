@@ -2,12 +2,12 @@ import setuptools
 
 if __name__ == "__main__":
     setuptools.setup(
-        name='friendly-computing-machine',
+        name='python_practice',
         version="0.1.1",
         description='A starting template for Python programs',
         author='Thomas Summers',
         author_email='tsmmers1@memphis.edu',
-        url="https://github.com/tsmmers1/friendly-computing-machine",
+        url="https://github.com/tsmmers1/python_practice",
         license='BSD-3C',
         packages=setuptools.find_packages(),
         install_requires=[
